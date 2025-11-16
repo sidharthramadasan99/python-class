@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64efcfc3-9caa-4b84-9447-04d96b37c0ac" name="Changes" comment="Add file 'first file.py'">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="64efcfc3-9caa-4b84-9447-04d96b37c0ac" name="Changes" comment="Added 'data_types.py'&#10;This file is for explaining python data types in detail.&#10;NOTE: File INCOMPLETE" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -42,13 +45,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.data_types.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "B__2025__11__16"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762064034764</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added 'data_types.py'&#10;This file is for explaining python data types in detail.&#10;NOTE: File INCOMPLETE">
+      <option name="closed" value="true" />
+      <created>1763277118157</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763277118157</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +110,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit. Seeing if commit is realy working" />
     <MESSAGE value="Add file 'first file.py'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add file 'first file.py'" />
+    <MESSAGE value="Added 'data_types.py'&#10;This file is for explaining python data types in detail.&#10;NOTE: File INCOMPLETE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 'data_types.py'&#10;This file is for explaining python data types in detail.&#10;NOTE: File INCOMPLETE" />
   </component>
 </project>
